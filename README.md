@@ -1,2 +1,2 @@
-# Dress-CSS
-Drastically Reduced Extensible Stylesheets
+# JCSS
+Javascript Cascading Stylesheets
